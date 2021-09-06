@@ -1,6 +1,6 @@
-<h1 align="center"> TASHA LIM </h1>
+### Hi!!
 
-Hi there! I'm currently taking an undergrad degree in Actuarial Studies.
+I'm **Tasha**, and am currently taking an undergrad degree in Actuarial Studies.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tasharx)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasharx&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
@@ -12,7 +12,7 @@ Hi there! I'm currently taking an undergrad degree in Actuarial Studies.
 
 ### Education
 
-- 2021: Bachelor of Actuarial Studies with Professional Practice
+- 2024: Bachelor of Actuarial Studies with Professional Practice
 - 2020: International Baccelaureate
 
 <!--
