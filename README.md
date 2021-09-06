@@ -12,7 +12,7 @@ I'm **Tasha**, and am currently taking an undergrad degree in Actuarial Studies.
 
 ### Education
 
-- 2024: Bachelor of Actuarial Studies with Professional Practice
+- 2024: Bachelor of Actuarial Studies Co-op
 - 2020: International Baccelaureate
 
 <!--
