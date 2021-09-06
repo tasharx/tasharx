@@ -1,6 +1,5 @@
-### Hi!!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=000000&lines=Hi!!)](https://git.io/typing-svg)
-I'm **Tasha**, and am currently taking an undergrad degree in Actuarial Studies.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=000000&size=22&lines=Hi!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=000000&lines=My+name+is+Tasha%2C+I'm+an+Actuarial+Science+undergrad+student.)](https://git.io/typing-svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tasharx)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasharx&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
