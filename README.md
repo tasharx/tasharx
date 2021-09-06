@@ -1,8 +1,9 @@
 <h1 align="center"> TASHA LIM </h1>
 
-<h2 align="center"> Actuarial Undergrad </h2>
-
 Hi there! I'm currently taking an undergrad degree in Actuarial Studies.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tasharx)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasharx&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
 
 ### What am I up to? 
 
